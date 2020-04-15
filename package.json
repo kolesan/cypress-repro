@@ -1,0 +1,22 @@
+{
+  "name": "interection_observer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolesan/cypress-repro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolesan/cypress-repro/issues"
+  },
+  "homepage": "https://github.com/kolesan/cypress-repro#readme",
+  "dependencies": {
+    "cypress": "^4.4.0"
+  }
+}
